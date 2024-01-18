@@ -1,6 +1,6 @@
 Java implementations of various machine learning algorithms 
 
-The repository includes:
+The repository includes/in-progress:
 
 - [ ] Linear Regression
 - [ ] Logistic Regression
