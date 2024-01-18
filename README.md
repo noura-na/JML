@@ -1,7 +1,6 @@
-# JML
-Java implementations of various machine learning algorithms
+Java implementations of various machine learning algorithms 
 
-## Implemented Algorithms
+The repository includes:
 
 - [ ] Linear Regression
 - [ ] Logistic Regression
